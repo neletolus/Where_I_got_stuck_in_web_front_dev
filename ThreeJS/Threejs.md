@@ -6,6 +6,9 @@
 ```javascript
 model.setAttribute('animation-mixer', { clip: 'Animation', loop: 'once', clampWhenFinished: true })
 ```
+<br />
+<br />
+<br />
 
 ## アニメーションの終了を受け取れない。
 原因はThree.jsのLoopタイプの指定ミスが多い。  
